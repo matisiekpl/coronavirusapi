@@ -6,7 +6,7 @@
   "dependencies": {
     "@pm2/io": "^4.3.3",
     "apollo-server": "^2.10.1",
-    "chrono-node": "^1.4.3",
+    "chrono-node": "^2.2.4",
     "graphql": "^14.6.0",
     "mongoose": "^5.9.3"
   }
